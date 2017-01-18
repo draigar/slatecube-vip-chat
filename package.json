@@ -1,0 +1,17 @@
+{
+  "name": "Real-Time-Private-Chatting-Codershood",
+  "version": "0.0.1",
+  "description": "Real-Time-Private-Chatting-Codershood",
+  "author": "Shashank Tiwari",
+  "license": "MIT",
+  "dependencies": {
+    "express": "",
+    "express-session": "",
+    "cookie-parser": "",
+    "body-parser": "",
+    "mysql": "",
+    "socket.io": "",
+    "ejs": "",
+    "multer": ""
+  }
+}
